@@ -1,8 +1,8 @@
 {
   "name": "ol3",
-  "version": "3.4.0",
+  "version": "3.7.0",
   "main": [
-    "ol-debug.js",
+    "ol.js",
     "ol.css"
   ]
 }
